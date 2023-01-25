@@ -1,7 +1,7 @@
 ![logo](https://github.com/SamimSadeed/SamimSadeed/blob/main/github-logo%20120.png)
 <h1 align="center">Hello 👋, I'm Mohammad Samim Sadeed</h1>
 <h2 align="center">Business Development Officer at RevelTek</h2>
-<img align="right" alt="coding" width="400" src="https://avatars.githubusercontent.com/u/19213393?v=4">
+<img align="right" alt="coding" width="300" src="https://avatars.githubusercontent.com/u/19213393?v=4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samimsadeed&label=Profile%20views&color=0e75b6&style=flat" alt="samimsadeed" /> </p>
 
 - 🌱 **I’m currently learning:** **Agile, GitHub, Outsystems...etc**
