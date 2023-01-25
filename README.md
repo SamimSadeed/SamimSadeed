@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/SamimSadeed/SamimSadeed/blob/main/Background.png)
 <h1 align="center">Hello 👋, I'm Mohammad Samim Sadeed</h1>
 <h2 align="center">Business Development Officer at RevelTek</h2>
 <img align="right" alt="coding" width="400" src="https://avatars.githubusercontent.com/u/19213393?v=4">
