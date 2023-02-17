@@ -8,7 +8,7 @@
 
 - 💬 **Ask me about:** **Anything you would like to know about me.**
 
-- 📫 **How to reach me:** **...................**
+- 📫 **How to reach me:** **..................**
 
 - ⚡ **Fun fact:** **Can't do 'Ratta' while learning something.**
 
