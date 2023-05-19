@@ -12,7 +12,7 @@ Today, I made significant progress on various tasks and engagements. Here's a su
 
 5. Access to Pod Repositories: I successfully requested and obtained access to the repositories of Pods for monitoring purposes. This will enable me to closely track and analyze their performance.
 
-6. Meeting with Hurricane Team Members: I met with the Hurricane team members to gain insight into their ongoing activities and the progress made towards the set milestones. This allowed me to stay informed and aligned with their work.
+6. Meeting with a Pod Team Members: I met with a Pod team members to gain insight into their ongoing activities and the progress made towards the set milestones. This allowed me to stay informed and aligned with their work.
 
 7. Introductory Session Planning: I took the initiative to plan an introductory session for the new employees scheduled on Monday. This session will serve as a daily training session to familiarize them with our processes and procedures.
 
