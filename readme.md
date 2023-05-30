@@ -1,7 +1,7 @@
 ![logo](https://github.com/SamimSadeed/SamimSadeed/blob/main/github-logo%2090.png)
 <h1 align="center">Hello 👋, I'm a GitHub user</h1>
 <h2 align="center">Business Development Officer</h2>
-<img align="right" alt="coding" width="350" src="https://avatars.githubusercontent.com/u/19213393?v=4">
+<img align="right" alt="coding" width="350" src="[https://avatars.githubusercontent.com/u/19213393?v=4](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samimsadeed&label=Profile%20views&color=0e75b6&style=flat" alt="samimsadeed" /> </p>
 
 - 🌱 **I’m currently learning:** **Agile, GitHub, Outsystems...etc**
